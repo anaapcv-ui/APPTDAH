@@ -1,0 +1,5 @@
+anthropic>=2.4.0
+python-telegram-bot>=22.0
+gspread>=6.1
+pydantic>=2.7
+python-dotenv>=1.0
